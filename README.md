@@ -1,2 +1,2 @@
 # Otomotif-Class
-Silahkan download Aplikasi Otomotif Class untuk pembelajaran yang lebih simple.
+Silahkan Akses file html untuk dapat mengakses, Aplikasi Otomotif Class untuk pembelajaran yang lebih simple.
